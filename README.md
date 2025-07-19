@@ -21,3 +21,6 @@
     2. **bloodhound** 绘制拓扑图，要与neo4j数据库连接
 9. **ssp工具箱** 基于go环境建立的工具集合框架，生成图形化界面方便管理众多工具
 
+#### [**bloodhound** 使用指南](https://www.cnblogs.com/backlion/p/10643132.html)
+
+#### 最新更新了initial靶场流程ppt！有条件的小伙伴可以去试试，没条件的可以学一下流程和指令🥳
